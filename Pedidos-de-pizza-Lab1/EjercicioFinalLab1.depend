@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1657936338 source:e:\github - repositorios\pedidos-de-pizza\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1657936338 e:\github - repositorios\pedidos-de-pizza\funciones.h
+
+1680208923 source:e:\github - repositorios\pedidos-de-pizza\main.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
